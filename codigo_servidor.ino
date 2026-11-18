@@ -1,4 +1,4 @@
-// Dupla João Pedro Piazentin e Vinicius Luperini com dupla Arthur Pedruzi e Vitor Cunha
+//Código alterado pela AWS - Dupla João Pedro Piazentin e Vinicius Luperini com dupla Arthur Pedruzi e Vitor Cunha
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
